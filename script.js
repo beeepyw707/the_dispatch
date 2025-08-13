@@ -11,9 +11,9 @@ buttons.forEach(button => {
 
     // Change button text
     if (fullText.classList.contains('hidden')) {
-      button.textContent = 'Read More';
+      button.textContent = 'read more';
     } else {
-      button.textContent = 'Show Less';
+      button.textContent = 'show less';
     }
   });
 });
