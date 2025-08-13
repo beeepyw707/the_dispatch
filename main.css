@@ -29,7 +29,7 @@ code {
 }
 
 button.read-more {
-  background-color: #A4D2A9;
+  background-color: #a4d2a9;
   color: white;
   border: none;
   padding: 0.5em 1em;
@@ -40,5 +40,5 @@ button.read-more {
 }
 
 button.read-more:hover {
-  background-color: #89C591;
+  background-color: #89c591;
 }
